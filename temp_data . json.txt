@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "Купить молоко",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "task": "Сделать домашнее задание",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "task": "Погулять с собакой",
+        "completed": false
+    }
+]

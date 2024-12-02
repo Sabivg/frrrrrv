@@ -1,6 +1,0 @@
-# Игнорировать временные файлы
-app.log
-temp_data.json
-cache.tmp
-test_results.txt
-image_temp.png
